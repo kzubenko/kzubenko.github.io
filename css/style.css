@@ -438,6 +438,11 @@ body {
     font-size: 18px;
     line-height: 20px;
     padding: 13px 29px;
+    margin-top: 460px;
+  }
+}
+@media (max-width: 480px) and (max-width: 373px) {
+  .text__btn {
     margin-top: 440px;
   }
 }
@@ -480,7 +485,7 @@ body {
     line-height: 42px;
     font-size: 42px;
     color: #635C73;
-    margin-top: 92px;
+    margin-top: 72px;
   }
 }
 @media screen and (max-width: 480px) {
@@ -491,7 +496,7 @@ body {
     line-height: 28px;
     font-size: 26px;
     color: #635C73;
-    margin-top: 80px;
+    margin-top: 60px;
   }
 }
 .editor__desc-text {
@@ -620,7 +625,7 @@ body {
     line-height: 44px;
     font-size: 42px;
     color: #8D81AC;
-    margin: 0px auto 50px auto;
+    margin: -50px auto 50px auto;
     text-align: center;
   }
 }
@@ -632,7 +637,7 @@ body {
     line-height: 38px;
     font-size: 32px;
     color: #8D81AC;
-    margin: 0 auto 36px auto;
+    margin: -80px auto 36px auto;
     text-align: center;
   }
 }
